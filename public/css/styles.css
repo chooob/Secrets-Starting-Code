@@ -14,3 +14,15 @@ body {
   color: #fff;
   background-color: #000;
 }
+.fab{
+  padding-top: 9.5px;
+}
+.btn-social>:first-child{
+  width: 40px;
+}
+.btn-social{
+  padding-left: auto;
+}
+.container{
+  max-width: 1300px;
+}
